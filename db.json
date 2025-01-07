@@ -274,5 +274,60 @@
       "SpAttack": 50,
       "SpDefense": 50,
       "Speed": 90
+  },
+
+  {
+    "id": 26,
+    "name": "Raichu",
+      "HP": 60,
+      "Attack": 90,
+      "Defense": 55,
+      "SpAttack": 90,
+      "SpDefense": 80,
+      "Speed": 110
+  },
+
+  {
+    "id": 27,
+    "name": "Sabelette",
+      "HP": 50,
+      "Attack": 75,
+      "Defense": 85,
+      "SpAttack": 20,
+      "SpDefense": 30,
+      "Speed": 40
+  },
+
+  {
+    "id": 28,
+    "name": "Sablaireau",
+      "HP": 75,
+      "Attack": 100,
+      "Defense": 110,
+      "SpAttack": 45,
+      "SpDefense": 55,
+      "Speed": 65
+  },
+
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+      "HP": 55,
+      "Attack": 47,
+      "Defense": 52,
+      "SpAttack": 40,
+      "SpDefense": 40,
+      "Speed": 41
+  },
+
+  {
+    "id": 30,
+    "name": "Nidorina",
+      "HP": 70,
+      "Attack": 62,
+      "Defense": 67,
+      "SpAttack": 55,
+      "SpDefense": 55,
+      "Speed": 56
   }
 ]}
