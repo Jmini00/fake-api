@@ -329,65 +329,6 @@
       "SpAttack": 55,
       "SpDefense": 55,
       "Speed": 56
-  },
-
-  {
-    "id": 31,
-    "name": "Nidoqueen",
-      "HP": 90,
-      "Attack": 92,
-      "Defense": 87,
-      "SpAttack": 75,
-      "SpDefense": 85,
-      "Speed": 76
-    
-  },
-
-  {
-    "id": 32,
-    "name": "Nidoran♂",
-      "HP": 46,
-      "Attack": 57,
-      "Defense": 40,
-      "SpAttack": 40,
-      "SpDefense": 40,
-      "Speed": 50
-    
-  },
-
-  {
-    "id": 33,
-    "name": "Nidorino",
-      "HP": 61,
-      "Attack": 72,
-      "Defense": 57,
-      "SpAttack": 55,
-      "SpDefense": 55,
-      "Speed": 65
-    
-  },
-
-  {
-    "id": 34,
-    "name": "Nidoking",
-      "HP": 81,
-      "Attack": 102,
-      "Defense": 77,
-      "SpAttack": 85,
-      "SpDefense": 75,
-      "Speed": 85
-    
-  },
-
-  {
-    "id": 35,
-    "name": "Mélofée",
-      "HP": 70,
-      "Attack": 45,
-      "Defense": 48,
-      "SpAttack": 60,
-      "SpDefense": 65,
-      "Speed": 35
-    
   }
+  
 ]}
