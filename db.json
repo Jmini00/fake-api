@@ -318,17 +318,6 @@
       "SpAttack": 40,
       "SpDefense": 40,
       "Speed": 41
-  },
-
-  {
-    "id": 30,
-    "name": "Nidorina",
-      "HP": 70,
-      "Attack": 62,
-      "Defense": 67,
-      "SpAttack": 55,
-      "SpDefense": 55,
-      "Speed": 56
   }
   
 ]}
